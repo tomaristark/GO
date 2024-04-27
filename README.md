@@ -13,8 +13,10 @@
 
 - [Effective go](https://go.dev/doc/effective_go)
 
-- *The Way To Go_ A Thorough Introduction To The Go Programming Language ( PDFDrive ).pdf by Ivo Balbaert*
+- *The Way To Go_ A Thorough Introduction To The Go Programming Language  by Ivo Balbaert*
 
 - *Go Design Patterns by Mario Castro Contreras*
+
+- *Chat GPT 3.5*
 
 ---
